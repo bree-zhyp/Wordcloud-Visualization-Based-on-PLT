@@ -16,13 +16,11 @@
 - **/output/Text Annotation after Stop Word Filtering**：过滤停止词词频统计结果
 - **/small**：ltp 模型文件  
 - **/stopwords**：停止词的数据集  
-- **/homework1-tex**：作业报告 latex 源代码  
 - **Tokenization and POS Tagging.py**：分词与词性标注 python 文件  
 - **Stop Word Filtering.py**：停止词过滤 python 文件  
 - **Word frequency analysis.py**：词频统计 python 文件  
 - **Get Wordcloud.py**：词云生成 python 文件  
 - **main.py**：主函数 (直接运行这个文件即可)
-- **作业报告.pdf**：作业的 PDF 报告文档
 
 ## 运行环境
 
