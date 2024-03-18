@@ -4,8 +4,8 @@
 
 ## 作者
 
-- [ZhangYupeng](https://github.com/SYSU-Zhangyp)，张宇鹏，中山大学人工智能学院，21311071 
-  
+- [ZhangYupeng](https://github.com/SYSU-Zhangyp)
+
 ## 压缩包内容  
 
 本压缩包包含了作业项目所需的一些文件、文档或数据，下面是关于这个压缩包的详细介绍。 
