@@ -60,7 +60,7 @@ python main.py
 ### 二十大报告词云
 ![二十大](output/Wordcloud/wordcloud_二十大报告.png)
 
-## 致谢
+## 引用
 
   
 - [武汉大学 LTP 分词系统](https://github.com/HIT-SCIR/ltp)：武汉大学自然语言处理实验室开发的分词系统，提供了丰富的中文自然语言处理功能。
